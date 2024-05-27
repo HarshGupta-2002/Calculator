@@ -5,8 +5,7 @@ A web based Calculator app made using HTML, CSS & Javascript, following BODMAS i
 
 ## Demo
 
-Insert gif or link to demo
-
+https://calculator.harshgupta.wiki/
 
 ## Installation
 
