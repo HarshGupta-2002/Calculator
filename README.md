@@ -11,13 +11,13 @@ https://calculator.harshgupta.wiki/
 
 Clone the project using the following steps
 
-    1. Open Git Bash.
+1. Open Git Bash.
 
-    2. Change the current working directory to the location where you want the cloned directory.
+2. Change the current working directory to the location where you want the cloned directory.
 
-    3. Type git clone, and then paste the URL you copied earlier.
+3. Type git clone, and then paste the URL you copied earlier.
 
-    4. git clone https://github.com/HarshGupta-2002/Calculator.git
+4.     git clone https://github.com/HarshGupta-2002/Calculator.git
     
 ## Screenshot
 
